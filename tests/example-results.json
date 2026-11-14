@@ -1,0 +1,50 @@
+[
+  {
+    "source_chars": 567,
+    "rewrite_chars": 607,
+    "ratio": 1.070547,
+    "change_percent": 7.055,
+    "length_pass": true,
+    "anchors_missing_from_source": [],
+    "anchors_missing_from_rewrite": [],
+    "scope": "非空白Unicode字符，含标点；输入文件应仅含正文。锚点仅检查原样出现，不验证语义。",
+    "literal_anchor_pass": true,
+    "id": "warehouse"
+  },
+  {
+    "source_chars": 298,
+    "rewrite_chars": 310,
+    "ratio": 1.040268,
+    "change_percent": 4.027,
+    "length_pass": true,
+    "anchors_missing_from_source": [],
+    "anchors_missing_from_rewrite": [],
+    "scope": "非空白Unicode字符，含标点；输入文件应仅含正文。锚点仅检查原样出现，不验证语义。",
+    "literal_anchor_pass": true,
+    "id": "forms"
+  },
+  {
+    "source_chars": 296,
+    "rewrite_chars": 323,
+    "ratio": 1.091216,
+    "change_percent": 9.122,
+    "length_pass": true,
+    "anchors_missing_from_source": [],
+    "anchors_missing_from_rewrite": [],
+    "scope": "非空白Unicode字符，含标点；输入文件应仅含正文。锚点仅检查原样出现，不验证语义。",
+    "literal_anchor_pass": true,
+    "id": "island"
+  },
+  {
+    "source_chars": 134,
+    "rewrite_chars": 149,
+    "ratio": 1.11194,
+    "change_percent": 11.194,
+    "length_pass": true,
+    "anchors_missing_from_source": [],
+    "anchors_missing_from_rewrite": [],
+    "scope": "非空白Unicode字符，含标点；输入文件应仅含正文。锚点仅检查原样出现，不验证语义。",
+    "literal_anchor_pass": true,
+    "id": "library"
+  }
+]
