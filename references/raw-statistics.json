@@ -1,0 +1,753 @@
+{
+  "source_sha256": "0935b00f5b7c04e4ae15ee650400b3aa6b0df8b6cdfcf6339a0462e5949db13e",
+  "source_bytes": 5329504,
+  "episode_count": 168,
+  "body_chars_no_space": 1792008,
+  "body_han_chars": 1583536,
+  "series": {
+    "硬核狠人": {
+      "episodes": 83,
+      "chars_no_space": 887789,
+      "date_min": "2021-06-18",
+      "date_max": "2026-11-10"
+    },
+    "神奇组织": {
+      "episodes": 40,
+      "chars_no_space": 489583,
+      "date_min": "2022-08-26",
+      "date_max": "2026-10-20"
+    },
+    "奇葩小国": {
+      "episodes": 45,
+      "chars_no_space": 414636,
+      "date_min": "2020-12-11",
+      "date_max": "2025-01-26"
+    }
+  },
+  "year_counts": {
+    "2020": 3,
+    "2021": 45,
+    "2022": 36,
+    "2023": 30,
+    "2024": 20,
+    "2025": 18,
+    "2026": 16
+  },
+  "count_method": "Exact substring count; raw subtitle bodies including advertising, not cleaned language rates. Phrases overlap. Non-whitespace characters include punctuation and Latin/digits.",
+  "phrases": {
+    "但是": {
+      "total": 1077,
+      "episodes": 166,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 518,
+          "episodes": 83,
+          "per_10k_chars": 5.835
+        },
+        "神奇组织": {
+          "occurrences": 241,
+          "episodes": 39,
+          "per_10k_chars": 4.923
+        },
+        "奇葩小国": {
+          "occurrences": 318,
+          "episodes": 44,
+          "per_10k_chars": 7.669
+        }
+      }
+    },
+    "然而": {
+      "total": 929,
+      "episodes": 134,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 464,
+          "episodes": 71,
+          "per_10k_chars": 5.226
+        },
+        "神奇组织": {
+          "occurrences": 358,
+          "episodes": 40,
+          "per_10k_chars": 7.312
+        },
+        "奇葩小国": {
+          "occurrences": 107,
+          "episodes": 23,
+          "per_10k_chars": 2.581
+        }
+      }
+    },
+    "于是": {
+      "total": 569,
+      "episodes": 155,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 327,
+          "episodes": 79,
+          "per_10k_chars": 3.683
+        },
+        "神奇组织": {
+          "occurrences": 156,
+          "episodes": 37,
+          "per_10k_chars": 3.186
+        },
+        "奇葩小国": {
+          "occurrences": 86,
+          "episodes": 39,
+          "per_10k_chars": 2.074
+        }
+      }
+    },
+    "结果": {
+      "total": 535,
+      "episodes": 154,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 286,
+          "episodes": 78,
+          "per_10k_chars": 3.221
+        },
+        "神奇组织": {
+          "occurrences": 149,
+          "episodes": 36,
+          "per_10k_chars": 3.043
+        },
+        "奇葩小国": {
+          "occurrences": 100,
+          "episodes": 40,
+          "per_10k_chars": 2.412
+        }
+      }
+    },
+    "没想到": {
+      "total": 235,
+      "episodes": 122,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 122,
+          "episodes": 60,
+          "per_10k_chars": 1.374
+        },
+        "神奇组织": {
+          "occurrences": 51,
+          "episodes": 31,
+          "per_10k_chars": 1.042
+        },
+        "奇葩小国": {
+          "occurrences": 62,
+          "episodes": 31,
+          "per_10k_chars": 1.495
+        }
+      }
+    },
+    "万万没想到": {
+      "total": 30,
+      "episodes": 26,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 13,
+          "episodes": 11,
+          "per_10k_chars": 0.146
+        },
+        "神奇组织": {
+          "occurrences": 7,
+          "episodes": 7,
+          "per_10k_chars": 0.143
+        },
+        "奇葩小国": {
+          "occurrences": 10,
+          "episodes": 8,
+          "per_10k_chars": 0.241
+        }
+      }
+    },
+    "要知道": {
+      "total": 37,
+      "episodes": 33,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 21,
+          "episodes": 20,
+          "per_10k_chars": 0.237
+        },
+        "神奇组织": {
+          "occurrences": 12,
+          "episodes": 9,
+          "per_10k_chars": 0.245
+        },
+        "奇葩小国": {
+          "occurrences": 4,
+          "episodes": 4,
+          "per_10k_chars": 0.096
+        }
+      }
+    },
+    "说起来": {
+      "total": 24,
+      "episodes": 24,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 17,
+          "episodes": 17,
+          "per_10k_chars": 0.191
+        },
+        "神奇组织": {
+          "occurrences": 1,
+          "episodes": 1,
+          "per_10k_chars": 0.02
+        },
+        "奇葩小国": {
+          "occurrences": 6,
+          "episodes": 6,
+          "per_10k_chars": 0.145
+        }
+      }
+    },
+    "那么问题来了": {
+      "total": 5,
+      "episodes": 5,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 3,
+          "episodes": 3,
+          "per_10k_chars": 0.034
+        },
+        "神奇组织": {
+          "occurrences": 1,
+          "episodes": 1,
+          "per_10k_chars": 0.02
+        },
+        "奇葩小国": {
+          "occurrences": 1,
+          "episodes": 1,
+          "per_10k_chars": 0.024
+        }
+      }
+    },
+    "问题来了": {
+      "total": 5,
+      "episodes": 5,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 3,
+          "episodes": 3,
+          "per_10k_chars": 0.034
+        },
+        "神奇组织": {
+          "occurrences": 1,
+          "episodes": 1,
+          "per_10k_chars": 0.02
+        },
+        "奇葩小国": {
+          "occurrences": 1,
+          "episodes": 1,
+          "per_10k_chars": 0.024
+        }
+      }
+    },
+    "换句话说": {
+      "total": 4,
+      "episodes": 4,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 2,
+          "episodes": 2,
+          "per_10k_chars": 0.023
+        },
+        "神奇组织": {
+          "occurrences": 1,
+          "episodes": 1,
+          "per_10k_chars": 0.02
+        },
+        "奇葩小国": {
+          "occurrences": 1,
+          "episodes": 1,
+          "per_10k_chars": 0.024
+        }
+      }
+    },
+    "所谓": {
+      "total": 304,
+      "episodes": 133,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 133,
+          "episodes": 60,
+          "per_10k_chars": 1.498
+        },
+        "神奇组织": {
+          "occurrences": 105,
+          "episodes": 38,
+          "per_10k_chars": 2.145
+        },
+        "奇葩小国": {
+          "occurrences": 66,
+          "episodes": 35,
+          "per_10k_chars": 1.592
+        }
+      }
+    },
+    "这就": {
+      "total": 182,
+      "episodes": 102,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 96,
+          "episodes": 48,
+          "per_10k_chars": 1.081
+        },
+        "神奇组织": {
+          "occurrences": 35,
+          "episodes": 22,
+          "per_10k_chars": 0.715
+        },
+        "奇葩小国": {
+          "occurrences": 51,
+          "episodes": 32,
+          "per_10k_chars": 1.23
+        }
+      }
+    },
+    "不仅": {
+      "total": 238,
+      "episodes": 112,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 96,
+          "episodes": 53,
+          "per_10k_chars": 1.081
+        },
+        "神奇组织": {
+          "occurrences": 66,
+          "episodes": 29,
+          "per_10k_chars": 1.348
+        },
+        "奇葩小国": {
+          "occurrences": 76,
+          "episodes": 30,
+          "per_10k_chars": 1.833
+        }
+      }
+    },
+    "甚至": {
+      "total": 469,
+      "episodes": 154,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 220,
+          "episodes": 75,
+          "per_10k_chars": 2.478
+        },
+        "神奇组织": {
+          "occurrences": 124,
+          "episodes": 37,
+          "per_10k_chars": 2.533
+        },
+        "奇葩小国": {
+          "occurrences": 125,
+          "episodes": 42,
+          "per_10k_chars": 3.015
+        }
+      }
+    },
+    "只能说": {
+      "total": 21,
+      "episodes": 19,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 12,
+          "episodes": 10,
+          "per_10k_chars": 0.135
+        },
+        "神奇组织": {
+          "occurrences": 2,
+          "episodes": 2,
+          "per_10k_chars": 0.041
+        },
+        "奇葩小国": {
+          "occurrences": 7,
+          "episodes": 7,
+          "per_10k_chars": 0.169
+        }
+      }
+    },
+    "至少": {
+      "total": 254,
+      "episodes": 127,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 112,
+          "episodes": 61,
+          "per_10k_chars": 1.262
+        },
+        "神奇组织": {
+          "occurrences": 76,
+          "episodes": 36,
+          "per_10k_chars": 1.552
+        },
+        "奇葩小国": {
+          "occurrences": 66,
+          "episodes": 30,
+          "per_10k_chars": 1.592
+        }
+      }
+    },
+    "怎么说呢": {
+      "total": 1,
+      "episodes": 1,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 1,
+          "episodes": 1,
+          "per_10k_chars": 0.011
+        },
+        "神奇组织": {
+          "occurrences": 0,
+          "episodes": 0,
+          "per_10k_chars": 0.0
+        },
+        "奇葩小国": {
+          "occurrences": 0,
+          "episodes": 0,
+          "per_10k_chars": 0.0
+        }
+      }
+    },
+    "好消息": {
+      "total": 72,
+      "episodes": 42,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 46,
+          "episodes": 26,
+          "per_10k_chars": 0.518
+        },
+        "神奇组织": {
+          "occurrences": 21,
+          "episodes": 13,
+          "per_10k_chars": 0.429
+        },
+        "奇葩小国": {
+          "occurrences": 5,
+          "episodes": 3,
+          "per_10k_chars": 0.121
+        }
+      }
+    },
+    "坏消息": {
+      "total": 48,
+      "episodes": 30,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 31,
+          "episodes": 18,
+          "per_10k_chars": 0.349
+        },
+        "神奇组织": {
+          "occurrences": 12,
+          "episodes": 9,
+          "per_10k_chars": 0.245
+        },
+        "奇葩小国": {
+          "occurrences": 5,
+          "episodes": 3,
+          "per_10k_chars": 0.121
+        }
+      }
+    },
+    "老哥": {
+      "total": 53,
+      "episodes": 44,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 31,
+          "episodes": 24,
+          "per_10k_chars": 0.349
+        },
+        "神奇组织": {
+          "occurrences": 12,
+          "episodes": 11,
+          "per_10k_chars": 0.245
+        },
+        "奇葩小国": {
+          "occurrences": 10,
+          "episodes": 9,
+          "per_10k_chars": 0.241
+        }
+      }
+    },
+    "这哥们": {
+      "total": 7,
+      "episodes": 7,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 6,
+          "episodes": 6,
+          "per_10k_chars": 0.068
+        },
+        "神奇组织": {
+          "occurrences": 1,
+          "episodes": 1,
+          "per_10k_chars": 0.02
+        },
+        "奇葩小国": {
+          "occurrences": 0,
+          "episodes": 0,
+          "per_10k_chars": 0.0
+        }
+      }
+    },
+    "小约翰": {
+      "total": 105,
+      "episodes": 71,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 46,
+          "episodes": 32,
+          "per_10k_chars": 0.518
+        },
+        "神奇组织": {
+          "occurrences": 19,
+          "episodes": 13,
+          "per_10k_chars": 0.388
+        },
+        "奇葩小国": {
+          "occurrences": 40,
+          "episodes": 26,
+          "per_10k_chars": 0.965
+        }
+      }
+    },
+    "通辽": {
+      "total": 268,
+      "episodes": 124,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 118,
+          "episodes": 60,
+          "per_10k_chars": 1.329
+        },
+        "神奇组织": {
+          "occurrences": 49,
+          "episodes": 25,
+          "per_10k_chars": 1.001
+        },
+        "奇葩小国": {
+          "occurrences": 101,
+          "episodes": 39,
+          "per_10k_chars": 2.436
+        }
+      }
+    },
+    "硬币": {
+      "total": 6,
+      "episodes": 5,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 3,
+          "episodes": 2,
+          "per_10k_chars": 0.034
+        },
+        "神奇组织": {
+          "occurrences": 1,
+          "episodes": 1,
+          "per_10k_chars": 0.02
+        },
+        "奇葩小国": {
+          "occurrences": 2,
+          "episodes": 2,
+          "per_10k_chars": 0.048
+        }
+      }
+    },
+    "点赞": {
+      "total": 5,
+      "episodes": 5,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 0,
+          "episodes": 0,
+          "per_10k_chars": 0.0
+        },
+        "神奇组织": {
+          "occurrences": 2,
+          "episodes": 2,
+          "per_10k_chars": 0.041
+        },
+        "奇葩小国": {
+          "occurrences": 3,
+          "episodes": 3,
+          "per_10k_chars": 0.072
+        }
+      }
+    },
+    "关注": {
+      "total": 105,
+      "episodes": 69,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 58,
+          "episodes": 36,
+          "per_10k_chars": 0.653
+        },
+        "神奇组织": {
+          "occurrences": 25,
+          "episodes": 17,
+          "per_10k_chars": 0.511
+        },
+        "奇葩小国": {
+          "occurrences": 22,
+          "episodes": 16,
+          "per_10k_chars": 0.531
+        }
+      }
+    },
+    "评论区": {
+      "total": 43,
+      "episodes": 36,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 30,
+          "episodes": 24,
+          "per_10k_chars": 0.338
+        },
+        "神奇组织": {
+          "occurrences": 13,
+          "episodes": 12,
+          "per_10k_chars": 0.266
+        },
+        "奇葩小国": {
+          "occurrences": 0,
+          "episodes": 0,
+          "per_10k_chars": 0.0
+        }
+      }
+    },
+    "优惠": {
+      "total": 83,
+      "episodes": 59,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 48,
+          "episodes": 34,
+          "per_10k_chars": 0.541
+        },
+        "神奇组织": {
+          "occurrences": 31,
+          "episodes": 21,
+          "per_10k_chars": 0.633
+        },
+        "奇葩小国": {
+          "occurrences": 4,
+          "episodes": 4,
+          "per_10k_chars": 0.096
+        }
+      }
+    },
+    "品牌": {
+      "total": 52,
+      "episodes": 37,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 31,
+          "episodes": 22,
+          "per_10k_chars": 0.349
+        },
+        "神奇组织": {
+          "occurrences": 16,
+          "episodes": 11,
+          "per_10k_chars": 0.327
+        },
+        "奇葩小国": {
+          "occurrences": 5,
+          "episodes": 4,
+          "per_10k_chars": 0.121
+        }
+      }
+    },
+    "链接": {
+      "total": 48,
+      "episodes": 44,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 39,
+          "episodes": 36,
+          "per_10k_chars": 0.439
+        },
+        "神奇组织": {
+          "occurrences": 9,
+          "episodes": 8,
+          "per_10k_chars": 0.184
+        },
+        "奇葩小国": {
+          "occurrences": 0,
+          "episodes": 0,
+          "per_10k_chars": 0.0
+        }
+      }
+    },
+    "客服": {
+      "total": 11,
+      "episodes": 10,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 6,
+          "episodes": 6,
+          "per_10k_chars": 0.068
+        },
+        "神奇组织": {
+          "occurrences": 4,
+          "episodes": 3,
+          "per_10k_chars": 0.082
+        },
+        "奇葩小国": {
+          "occurrences": 1,
+          "episodes": 1,
+          "per_10k_chars": 0.024
+        }
+      }
+    },
+    "到手": {
+      "total": 78,
+      "episodes": 56,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 48,
+          "episodes": 30,
+          "per_10k_chars": 0.541
+        },
+        "神奇组织": {
+          "occurrences": 25,
+          "episodes": 21,
+          "per_10k_chars": 0.511
+        },
+        "奇葩小国": {
+          "occurrences": 5,
+          "episodes": 5,
+          "per_10k_chars": 0.121
+        }
+      }
+    },
+    "优惠券": {
+      "total": 22,
+      "episodes": 22,
+      "series": {
+        "硬核狠人": {
+          "occurrences": 13,
+          "episodes": 13,
+          "per_10k_chars": 0.146
+        },
+        "神奇组织": {
+          "occurrences": 9,
+          "episodes": 9,
+          "per_10k_chars": 0.184
+        },
+        "奇葩小国": {
+          "occurrences": 0,
+          "episodes": 0,
+          "per_10k_chars": 0.0
+        }
+      }
+    }
+  }
+}
